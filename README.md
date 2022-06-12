@@ -1,4 +1,4 @@
-This is a project built to show comparable knowlege in 
+This is a personal project built to learn comparble knowledge in 
 - html
 - css
 - project managament 
